@@ -178,7 +178,7 @@ Databases Course Project - 2025
 
 ## License
 
-This project is licensed under the __[Your License Here, e.g., MIT License]__. See the LICENSE file for details.
+This project is licensed under the __MIT License__. See the LICENSE file for details.
 
 ---
 
