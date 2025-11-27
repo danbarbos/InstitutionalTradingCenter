@@ -1,0 +1,8 @@
+{
+    "name": "your-username/InstitutionalTradingCenter",
+    "description": "website",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
