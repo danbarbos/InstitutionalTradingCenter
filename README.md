@@ -1,7 +1,7 @@
 # Institutional Trading Center  
 _Financial Positions Management Web Application_
 
-![GitHub last commit](https://img.shields.io/github/last-commit/danbarbos/AlgorithmicTradingSimulator)
+![GitHub last commit](https://img.shields.io/github/last-commit/danbarbos/InstitutionalTradingCenter)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <img width="1057" height="504" alt="image" src="https://github.com/user-attachments/assets/e129663a-0188-40e9-b648-beb16c31b83a" />
