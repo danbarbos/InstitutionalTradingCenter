@@ -87,10 +87,14 @@ Developed as part of the Databases course at the Technical University of Cluj-Na
 `git clone https://github.com/your-username/institutional-trading-center.git`
 `cd institutional-trading-center`
 
+2.💾 Database Setup
 
-2. Setup Database:
-- Create the database and tables using the provided SQL schema.
-- Ensure credentials with sufficient permissions are available.
+This project uses a database, and the necessary files for setup and restoration are provided in the repository.
+
+* **SQL Queries:** The folder `itc queries` contains the **SQL script files** needed to populate and configure the database tables.
+
+* **Database Backup:** The file `Institutional Trading Center.bak` is a **full database backup** (likely for SQL Server) that can be used to restore the entire database structure and data to a local instance.
+
 
 3. Configure the database connection in `dbconfig.php` with your server credentials:
 
